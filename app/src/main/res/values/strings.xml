@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestGoogleSearchReturn</string>
+    <string name="action_settings">Settings</string>
+    <!--nav-->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="start_point">Choosing starting point</string>
+    <string name="des_point">Choosing ending point</string>
+    <string name="yourLocation">Your location</string>
+    <!--facebook-->
+    <string name="facebook_app_id">1765631393666272</string>
+</resources>

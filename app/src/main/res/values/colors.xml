@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#64B5F6</color>
+    <color name="colorPrimaryLight">#E3F2FD</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorGreen">#14FF55</color>
+    <color name="colorBlue">#0288D1</color>
+
+    <!--color bottom navigation bar-->
+    <color name="theme_color">#000000</color>
+    <color name="bot1">#795548</color>
+    <color name="bot2">#7B1FA2</color>
+    <color name="bot3">#FF5252</color>
+    <color name="bot4">#FF9800</color>
+</resources>
